@@ -1,0 +1,17 @@
+body {
+  background: beige;
+}
+
+h1 {
+  color: cornflowerblue;
+  transition: color 0.3s ease-in-out;
+}
+
+.active {
+  color: tomato;
+}
+
+.sexy-font {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 5rem;
+}
